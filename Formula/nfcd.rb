@@ -1,8 +1,8 @@
 class Nfcd < Formula
   desc "Watch directories and convert NFD filenames to NFC in real time"
   homepage "https://github.com/chanungdev/nfcd"
-  url "https://github.com/chanungdev/nfcd/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "abad437f9814cce4cdd98eb8c11ba6975d01b878dbbeda39e8139c4c639f9e14"
+  url "https://github.com/chanungdev/nfcd/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "24bc0242a67dfcadf2f62f2208af2d2ec19b90e5f125629fa98fc2122fb86e75"
   license "MIT"
   head "https://github.com/chanungdev/nfcd.git", branch: "main"
 
