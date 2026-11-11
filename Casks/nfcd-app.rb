@@ -1,6 +1,6 @@
 cask "nfcd-app" do
-  version "0.2.1"
-  sha256 "fbc73e84aa95521e752d429edde55a2b226ef0509f88071c75d93d1559ff9ffa"
+  version "0.2.2"
+  sha256 "bc5500441440398c105d2a2be10d8597f84b6875a17d911382fcd315882fdc1d"
 
   url "https://github.com/chanungdev/nfcd/releases/download/v#{version}/nfcd-app.zip"
   name "nfcd"
