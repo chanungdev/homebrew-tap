@@ -2,8 +2,8 @@ class Nfcd < Formula
   desc "Watch directories and convert NFD filenames to NFC in real time"
   homepage "https://github.com/chanungdev/nfcd"
   # Prebuilt universal binaries from the release workflow, so no Rust toolchain or compile.
-  url "https://github.com/chanungdev/nfcd/releases/download/v0.2.3/nfcd-cli.tar.gz"
-  sha256 "6cc3f6b9ebc921ca97ee0f85af7ebd5e768116dd93201449d80ab97b424cff5e"
+  url "https://github.com/chanungdev/nfcd/releases/download/v0.2.4/nfcd-cli.tar.gz"
+  sha256 "d279b978a958c1b0602f7feb0849f9f6a3df29340a9e8890c9c41a295613cf79"
   license "MIT"
 
   depends_on :macos
